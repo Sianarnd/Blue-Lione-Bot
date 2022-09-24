@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94714188730'
+global.REACT_NUMBER = '94770342724'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
-global.ytname = "YT: Nipuna-apps" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
+global.vcardowner = ['94770342724'] //ur owner number
+global.ownername = "RND➤➤ " //ur owner name
+global.ytname = "Yt:" //ur yt chanel name
+global.socialm = "GitHub: Siana-RND" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['714188730']
 global.ownertag = '714188730' //ur tag number
-global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
+global.botname = '⚜ʀɴᴅ ʙᴏᴛᴢ⚎⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
 global.reactmoji = "❤" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
-global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.themeemoji = "😈" //ur theme emoji
+global.packname = "Rnd>➤➤ Stickers\n\n\n\n\n\n\n\n\n\n\ ʀᴀᴡɪɴᴅᴜ➤➤ " //ur sticker watermark packname
+global.author = "ʀɴᴅ" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['714188730'] //ur premium numbers
+global.premium = ['770342724'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
